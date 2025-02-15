@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 import { Link } from "react-scroll";
 
@@ -71,12 +71,12 @@ const Header = () => {
             >
               <FaLinkedin size={29} />
             </a>
-            {/* <a
-              href="https://www.instagram.com/immucoder/?__pwa=1"
+            <a
+              href="https://www.instagram.com/gow.thxm?igsh=cW9rZHNhMnhkNWVo"
               className="hover:text-[#fe5617]"
             >
               <FaInstagram size={29} />
-            </a> */}
+            </a>
           </div>
         </nav>
 
@@ -94,12 +94,12 @@ const Header = () => {
           >
             <FaLinkedin size={29} />
           </a>
-          {/* <a
-            href="https://www.instagram.com/immucoder/?__pwa=1"
+          <a
+            href="https://www.instagram.com/gow.thxm?igsh=cW9rZHNhMnhkNWVo"
             className="hover:text-[#fe5617]"
           >
             <FaInstagram size={29} />
-          </a> */}
+          </a>
         </div>
       </div>
     </div>

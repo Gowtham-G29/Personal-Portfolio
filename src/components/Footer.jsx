@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -26,12 +26,12 @@ const Footer = () => {
           >
             <FaLinkedin size={29} />
           </a>
-          {/* <a
-            href="https://www.instagram.com/immucoder/?__pwa=1"
+          <a
+            href="https://www.instagram.com/gow.thxm?igsh=cW9rZHNhMnhkNWVo"
             className="hover:text-[#fe5617]"
           >
             <FaInstagram size={29} />
-          </a> */}
+          </a>
         </div>
       </div>
     </footer>

@@ -7,8 +7,7 @@ import {
   FaGithub,
   FaGitAlt,
   FaJava,
-  FaFigma,
-  FaNode,
+
 } from "react-icons/fa";
 import {
   SiTailwindcss,
